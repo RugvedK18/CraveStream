@@ -11,9 +11,7 @@
 
 ---
 
-## 🔗 Production Infrastructure
-*   **Live Web Client:** [cravestream-app.vercel.app](https://github.com/)
-*   **Production API Engine:** [api.cravestream.tech](https://github.com/)
+
 
 ---
 
